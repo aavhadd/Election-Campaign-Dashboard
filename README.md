@@ -25,6 +25,16 @@ The **Election-Campaign-Dashboard** analyzes financial trends in political campa
 - Developed an **Efficiency Dashboard** with interactive filters for dynamic **party finance analysis**.
 - Structured dashboards using **data storytelling techniques** to guide users through financial sustainability assessments.
 
+ <img width="1179" alt="image" src="https://github.com/user-attachments/assets/dcb0ab7c-1917-4817-8bd7-5a0178705672" />
+
+<img width="1198" alt="image" src="https://github.com/user-attachments/assets/fb1f78a8-1568-49f8-83fd-9393ed644efa" />
+
+<img width="1193" alt="image" src="https://github.com/user-attachments/assets/6930e340-dd1f-4aec-a0a8-873c92063b2d" />
+
+<img width="1198" alt="image" src="https://github.com/user-attachments/assets/8df0d36d-ee57-4299-9574-944e0cc3cb7c" />
+
+
+
 ---
 
 ## 🛠️ Technologies Used
